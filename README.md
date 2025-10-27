@@ -1,6 +1,6 @@
-# Book Title
+# 実務で使える数理最適化の考え方 -- 基礎から学ぶモデリング
 
-Book Image
+![書影](https://www.ohmsha.co.jp/Portals/0/images/noimage.png)
 
 ## errata
 
@@ -8,15 +8,15 @@ url
 
 ## License
 
-�{���|�W�g���ɂ̓\�[�X�R�[�h�ƕ��͂��܂܂�Ă��܂��D���ꂼ��̕����ɂ��āC�قȂ郉�C�Z���X��K�p���܂��D
+本リポジトリにはソースコードと文章が含まれています．それぞれの部分について，異なるライセンスを適用します．
 
-- **�\�[�X�R�[�h**  
-  MIT License �i���|�W�g�������� [LICENSE](./LICENSE) ���Q�Ɓj
+- **ソースコード**  
+  MIT License （リポジトリ直下の [LICENSE](./LICENSE) を参照）
 
-- **���́E�}�\�Ȃǂ̃R���e���c**  
+- **文章・図表などのコンテンツ**  
   Creative Commons Attribution 4.0 International (CC BY 4.0)  
-  �i[LICENSE-CC-BY](./LICENSE-CC-BY) ���Q�Ɓj
+  （[LICENSE-CC-BY](./LICENSE-CC-BY) を参照）
 
-### CC BY 4.0 �Ɋւ���⑫
-���̃��C�Z���X�̉��ł́C�o�T�𖾋L����΁C���́E�}�\�̗��p�E�|��E���ρE�Ĕz�z���\�ł��D  
-�ڍׂ� [Creative Commons - Attribution 4.0 International - Legal Code](https://creativecommons.org/licenses/by/4.0/legalcode) ���Q�Ƃ��Ă��������D
+### CC BY 4.0 に関する補足
+このライセンスの下では，出典を明記すれば，文章・図表の利用・翻訳・改変・再配布が可能です．  
+詳細は [Creative Commons - Attribution 4.0 International - Legal Code](https://creativecommons.org/licenses/by/4.0/legalcode) を参照してください．
