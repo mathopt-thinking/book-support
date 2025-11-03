@@ -58,11 +58,11 @@
 本リポジトリにはソースコードと文章が含まれています．それぞれの部分について，異なるライセンスを適用します．
 
 - **ソースコード**  
-  MIT License （リポジトリ直下の [LICENSE](./LICENSE) を参照）
+  MIT License （リポジトリ直下の [LICENSE](https://github.com/mathopt-thinking/book-support/blob/main/LICENSE) を参照）
 
 - **文章・図表などのコンテンツ**  
   Creative Commons Attribution 4.0 International (CC BY 4.0)  
-  （[LICENSE-CC-BY](./LICENSE-CC-BY) を参照）
+  （[LICENSE-CC-BY](https://github.com/mathopt-thinking/book-support/blob/main/LICENSE-CC-BY-4.0) を参照）
 
 ### CC BY 4.0 に関する補足
 
