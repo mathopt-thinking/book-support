@@ -1,11 +1,10 @@
-# 実務で使える数理最適化の考え方（サポートページ）
-**基礎から学ぶモデリング**
+# 実務で使える数理最適化の考え方 -- 基礎から学ぶモデリング
 
 <div style="display: flex; align-items: center;">
-  <img src="https://www.ohmsha.co.jp/Portals/0/images/noimage.png" alt="書影" style="width:300px; margin-right:10px;">
+  <img src="https://www.ohmsha.co.jp/Portals/0/book/view/978-4-274-23390-6_obi.jpg" alt="書影" style="width:300px; margin-right:50px; margin-bottom:30px; border: 2px solid #aaa; border-radius: 8px; box-shadow: 2px 2px 6px rgba(0,0,0,0.2);">
   <div style="display: flex; flex-direction: column;">
     <p>
-    本サイトは，書籍『実務で使える数理最適化の考え方』（オーム社）をご利用の方のためのサポートページです．
+    本サイトは，書籍『実務で使える数理最適化の考え方』（オーム社）をご利用の方のための<span style="background-color: yellow;">サポートページ</span>です．
     正誤表をはじめ，書籍内で紹介している Excel サンプル，そして書籍案内などを掲載しています．
     </p>
 <section class="book-toc" markdown="1">
