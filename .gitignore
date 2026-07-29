@@ -1,5 +1,6 @@
 syntax: glob
 _site/
+articles/
 *~
 .DS_Store
 Thumbs.db
