@@ -5,7 +5,7 @@
   <div style="display: flex; flex-direction: column;">
     <p>
     本サイトは，書籍『実務で使える数理最適化の考え方』（オーム社）をご利用の方のための<span style="background-color: yellow;">サポートページ</span>です．
-    正誤表をはじめ，書籍内で紹介している Excel サンプル，そして書籍案内などを掲載しています．
+    正誤表の案内をはじめ，書籍内で紹介している Excel サンプル，そして書籍案内などを掲載しています．
     </p>
 <section class="book-toc" markdown="1">
 * TOC
@@ -14,8 +14,8 @@
   </div>
 </div>
 
-- [オーム社: https://www.ohmsha.co.jp/book/9784274233906/](https://www.ohmsha.co.jp/book/9784274233906/)
-- [版元ドットコム](https://www.hanmoto.com/bd/isbn/9784274233906/)
+- <a href="https://www.ohmsha.co.jp/book/9784274233906.html" target="_blank" rel="noopener noreferrer">オーム社 - 書籍詳細ページ</a>
+- <a href="https://www.hanmoto.com/bd/isbn/9784274233906/" target="_blank" rel="noopener noreferrer">版元ドットコム</a>
 
 ## 正誤表
 
@@ -49,16 +49,17 @@
 
 ## License
 
-本リポジトリにはソースコードと文章が含まれています．それぞれの部分について，異なるライセンスを適用します．
+本リポジトリにはソースコードと文章が含まれています．それぞれの部分について，異なるライセンスを適用します．  
+なお，書影の利用につきましては，版元までご確認ください．
 
 - **ソースコード**  
-  MIT License （リポジトリ直下の [LICENSE](https://github.com/mathopt-thinking/book-support/blob/main/LICENSE) を参照）
+  MIT License （<a href="https://github.com/mathopt-thinking/book-support/blob/main/LICENSE" target="_blank" rel="noopener noreferrer">LICENSE</a> を参照）
 
 - **文章・図表などのコンテンツ**  
   Creative Commons Attribution 4.0 International (CC BY 4.0)  
-  （[LICENSE-CC-BY](https://github.com/mathopt-thinking/book-support/blob/main/LICENSE-CC-BY-4.0) を参照）
+  （<a href="https://github.com/mathopt-thinking/book-support/blob/main/LICENSE-CC-BY-4.0" target="_blank" rel="noopener noreferrer">LICENSE-CC-BY</a> を参照）
 
 ### CC BY 4.0 に関する補足
 
-このライセンスの下では，出典を明記すれば，文章・図表の利用・翻訳・改変・再配布が可能です．  
-詳細は [Creative Commons - Attribution 4.0 International - Legal Code](https://creativecommons.org/licenses/by/4.0/legalcode) を参照してください．
+このライセンスの下では，出典を明記すれば，本書の書影を除き，文章・図表の利用・翻訳・改変・再配布が可能です．  
+詳細は <a href="https://creativecommons.org/licenses/by/4.0/legalcode" target="_blank" rel="noopener noreferrer">Creative Commons - Attribution 4.0 International - Legal Code</a> を参照してください．
